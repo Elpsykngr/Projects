@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Random RGB Color Generator/Random RGB Color Generator.vcxproj" Id="e45e86de-4e6d-4862-8ced-dd72d0e838bb" />
+</Solution>
